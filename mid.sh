@@ -5,7 +5,7 @@ cd xenomai-3/
 cd
 
 mkdir kernel_cobalt
-cd !$
+cd  kernel_cobalt
 ../xenomai-3/configure --with-core=cobalt --enable-smp --enable-pshared
 make install
 
