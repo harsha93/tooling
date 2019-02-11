@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd xenomai/
+cd xenomai-3/
 ./scripts/bootstrap
 cd
 
